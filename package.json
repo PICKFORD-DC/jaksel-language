@@ -4,7 +4,7 @@
   "description": "Jaksel programming language",
   "main": "jaksel-interpreter.js",
   "bin": {
-    "jaksel": "./jaksel-interpreter.js"
+    "jagapura": "./jaksel-interpreter.js"
   },
   "scripts": {
     "test": "jest"
